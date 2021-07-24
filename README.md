@@ -6,6 +6,6 @@ IoT-based synthetic data considering five human physiological parameters such as
 
 Normal ragne is (i) 3 <= C <= 5 uS, (ii) 97 <= T <= 99 degF,
 (iii) 78 <= BL <= 80, (iv) 118 <= BH <= 120, and (v)
-2:5 <= T <= 4:9 ms. 
+2:5 <= HRV <= 4:9 ms. 
 
 There are anomalies included into each of variable columns. For eample, C has 8 anomalies, T has 7 anomalies, BL has 8 anomalies, BH has 7 anomalies, and, HRV has 8 anomalies.
