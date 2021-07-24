@@ -2,6 +2,8 @@
 
 This IoT-multivariate-anomaly.csv file contains 617 rows each with five variables as follows.
 
+This dataset can be used for performing multivarite or column-wise univarite anomaly or outlier detections.
+
 IoT-based synthetic data considering five human physiological parameters such as, skin conductance (C) in micro Siemens, body temperature (T) in Fahrenheit, blood pressure low (BL), blood pressure high (BH), and root mean square of successive difference (RMSSD) of heart rate variability (HRV) in milliseconds.
 
 Normal ragne is (i) 3 <= C <= 5 uS, (ii) 97 <= T <= 99 degF,
